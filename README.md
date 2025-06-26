@@ -5,10 +5,10 @@ A sleek and modern Flashcard Quiz App built using Python's tkinter, designed for
 
 - 5 second timer per question (auto-skip if time runs out)
 
-🎯 Live score tracking on screen
+- Live score tracking on screen
 
-🌗 Dark Mode / Light Mode Toggle
+- Dark Mode / Light Mode Toggle
 
-📋 Missed Questions Review at the end
+- Missed Questions Review at the end
 
-🔁 Restart Quiz & ❌ Exit button on result screen
+- Restart Quiz & ❌ Exit button on result screen
